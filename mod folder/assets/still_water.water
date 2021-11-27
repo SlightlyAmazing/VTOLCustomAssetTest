@@ -1,0 +1,23 @@
+{
+  "FlowSpeed": 1.0,
+  "SeepSpeed": 500.0,
+  "RainSpeed": 0.0,
+  "Size": 
+  {
+    "X": 0.5,
+    "Y": 1,
+    "Z": 0.5
+  },
+  "Liveries": 
+  {
+    "default": 
+    {
+      "MeshUri": "water/blue_half-cube.obj",
+      "MeshVariant": null,
+      "Lights": null
+    }
+  },
+  "Price": 0.0,
+  "RunningCosts": null,
+  "Hidden": false,
+}

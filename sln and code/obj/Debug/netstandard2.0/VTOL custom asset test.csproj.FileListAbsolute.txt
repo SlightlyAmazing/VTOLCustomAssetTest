@@ -1,0 +1,78 @@
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\VTOL custom asset test.deps.json
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\VTOL custom asset test.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\VTOL custom asset test.pdb
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\0Harmony.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\Assembly-CSharp.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.CoreModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\DotNetZip.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\Unity.TextMeshPro.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.UI.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.UIModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.TextRenderingModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.InputLegacyModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.PhysicsModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\Assembly-CSharp-firstpass.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.AudioModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.ParticleSystemModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.Physics2DModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.AnimationModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\K4os.Compression.LZ4.Streams.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.VideoModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.IMGUIModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestWWWModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\GameAnalytics.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.ScreenCaptureModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.ImageConversionModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.WindModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.SharedInternalsModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.TextCoreModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.TilemapModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.SpriteShapeModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\K4os.Compression.LZ4.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.AssetBundleModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.GridModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.DSPGraphModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.UnityCurlModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.UIElementsModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.AndroidJNIModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.AccessibilityModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.UnityConnectModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.AIModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.UnityAnalyticsModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.PerformanceReportingModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.ClothModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.ClusterInputModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.ClusterRendererModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.CrashReportingModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.TerrainModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.VFXModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.VRModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.SubsystemsModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.JSONSerializeModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.LocalizationModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.UNETModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestAudioModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestTextureModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.DirectorModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.VirtualTexturingModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.GameCenterModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.SpriteMaskModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.StreamingModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.TerrainPhysicsModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.UIElementsNativeModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.VehiclesModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.XRModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.ARModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\UnityEngine.InputModule.dll
+D:\VoxelTycoon modding\VTOL custom asset test\obj\Debug\netstandard2.0\VTOL custom asset test.csprojAssemblyReference.cache
+D:\VoxelTycoon modding\VTOL custom asset test\obj\Debug\netstandard2.0\VTOL custom asset test.AssemblyInfoInputs.cache
+D:\VoxelTycoon modding\VTOL custom asset test\obj\Debug\netstandard2.0\VTOL custom asset test.AssemblyInfo.cs
+D:\VoxelTycoon modding\VTOL custom asset test\obj\Debug\netstandard2.0\VTOL custom asset test.csproj.CoreCompileInputs.cache
+D:\VoxelTycoon modding\VTOL custom asset test\obj\Debug\netstandard2.0\VTOL custom asset test.csproj.CopyComplete
+D:\VoxelTycoon modding\VTOL custom asset test\obj\Debug\netstandard2.0\VTOL custom asset test.dll
+D:\VoxelTycoon modding\VTOL custom asset test\obj\Debug\netstandard2.0\VTOL custom asset test.pdb
+D:\VoxelTycoon modding\VTOL custom asset test\bin\Debug\netstandard2.0\Voxel Tycoon Open Library.dll

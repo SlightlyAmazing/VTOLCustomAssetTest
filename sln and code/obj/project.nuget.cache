@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4ST4fPPYj25ObiTlJ3nM60RqUpPJhaZT7fBmjNSIZNwOHvnTewITJbGWh+RqtFwysmFDUVRZXnudfHA8zfhSjg==",
+  "success": true,
+  "projectFilePath": "D:\\VoxelTycoon modding\\VTOL custom asset test\\VTOL custom asset test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

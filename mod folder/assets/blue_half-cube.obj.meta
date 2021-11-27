@@ -1,0 +1,13 @@
+{
+  "Materials": [
+    {
+      "Color": "0016ff",
+      "CompanyTint": 0,
+      "Emission": 0,
+      "Glassiness": 136,
+      "Smoothness": 0,
+      "Specular": 117
+    }
+  ],
+  "Variants": null
+}
