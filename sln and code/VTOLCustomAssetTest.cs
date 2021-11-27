@@ -72,11 +72,7 @@ namespace VTOL_custom_asset_test
             return tuple.Item1;
         }
     }
-    public class VTOLAssetSurrogate : BuildingAssetSurrogate
-    {
-        public string ResearchUri { get; set; }
-    }
-    public class WaterAssetSurrogate: VTOLAssetSurrogate
+    public class WaterAssetSurrogate : VTOLBuildingAssetSurrogate 
     {
         public float FlowSpeed { get; set; }
         public float SeepSpeed { get; set; }
@@ -90,16 +86,6 @@ namespace VTOL_custom_asset_test
     }
     public class WaterRemoverHandler : VTOLBuildingRemoverHandler<Water>
     {
-        protected override bool CanRemoveInternal(List<Water> targets, out string reason)
-        {
-            foreach (Water water in targets)
-            {
-                Debug.Log(water.ToString() + " : ");
-                reason = null;
-                return false;
-            }
-            return base.CanRemoveInternal(targets, out reason);
-        }
     }
     public class WaterRecipe : BuildingRecipe
     {
